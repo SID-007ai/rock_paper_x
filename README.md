@@ -1,2 +1,2 @@
-# rock_paper_x
+# rpx
 this is my first project
